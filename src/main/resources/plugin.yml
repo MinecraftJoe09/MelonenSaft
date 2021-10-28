@@ -1,0 +1,47 @@
+name: MelonenSaft
+version: ${project.version}
+main: eu.melonensaft.minecraftjoe09.melonensaft.MelonenSaft
+api-version: 1.16
+prefix: MelonenSaft
+authors: [ MinecraftJoe09 ]
+website: www.MelonenSaft.eu
+commands:
+  melonensaft:
+    aliases: [ms]
+    permission: melonensaft.command
+  chest:
+    permission: melonensaft.command.chest
+  config:
+    permission: melonensaft.command.config
+  crash:
+    permission: melonensaft.command.crash
+  day:
+    permission: melonensaft.command.day
+  deop:
+    permission: op
+  disconnect:
+    permission: melonensaft.command.disconnect
+  fly:
+    permission: melonensaft.command.fly
+  inventory:
+    permission: melonensaft.command.inventory
+  lag:
+    permission: melonensaft.command.lag
+  largechest:
+    permission: melonensaft.command.largechest
+  midnight:
+    permission: melonensaft.command.midnight
+  night:
+    permission: melonensaft.command.night
+  noon:
+    permission: melonensaft.command.noon
+  player:
+    permission: melonensaft.command.player
+  reset:
+    permission: melonensaft.command.reset
+  spawn:
+    permission: melonensaft.command.spawn
+  statistic:
+    permission: melonensaft.command.statistic
+  warp:
+    permission: melonensaft.command.warp

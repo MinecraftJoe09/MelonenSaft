@@ -1,0 +1,71 @@
+developer: MinecraftJoe09
+
+commands:
+  melonensaft:
+    enable: true
+    permission: melonensaft.command
+  chest:
+    enable: true
+    permission: melonensaft.command.chest
+  config:
+    enable: true
+    permission: melonensaft.command.config
+  crash:
+    enable: true
+    permission: melonensaft.command.crash
+  day:
+    enable: true
+    permission: melonensaft.command.day
+  deop:
+    enable: true
+    permission: op
+  disconnect:
+    enable: true
+    permission: melonensaft.command.disconnect
+  fly:
+    enable: true
+    permission: melonensaft.command.fly
+  inventory:
+    enable: true
+    permission: melonensaft.command.inventory
+  lag:
+    enable: true
+    permission: melonensaft.command.lag
+  largechest:
+    enable: true
+    permission: melonensaft.command.largechest
+  midnight:
+    enable: true
+    permission: melonensaft.command.midnight
+  night:
+    enable: true
+    permission: melonensaft.command.night
+  noon:
+    enable: true
+    permission: melonensaft.command.noon
+  player:
+    enable: true
+    permission: melonensaft.command.player
+  reset:
+    enable: true
+    permission: melonensaft.command.reset
+  spawn:
+    enable: true
+    permission: melonensaft.command.spawn
+  statistic:
+    enable: true
+    permission: melonensaft.command.statistic
+  warp:
+    enable: true
+    permission: melonensaft.command.warp
+    round-x: true
+    round-y: true
+    round-z: true
+settings:
+  no_recipes: false
+  scoreboard:
+    displayName: MelonenSaft
+    displaySlot: SIDEBAR
+      #BELOW_NAME
+      #PLAYER_LIST
+      #SIDEBAR
